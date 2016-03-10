@@ -81,6 +81,19 @@
 //@import "node_modules/aleut.objects.box/_objects.box.scss";
 //@import "node_modules/aleut.objects.buttons/_objects.buttons.scss";
 //@import "node_modules/aleut.objects.flag/_objects.flag.scss";
+
+$o-layout--tiny:     false !default;
+$o-layout--small:    false !default;
+$o-layout--large:    false !default;
+$o-layout--huge:     false !default;
+$o-layout--flush:    false !default;
+$o-layout--rev:      false !default;
+$o-layout--middle:   false !default;
+$o-layout--bottom:   false !default;
+$o-layout--right:    false !default;
+$o-layout--center:   false !default;
+$o-layout--auto:     false !default;
+
 //@import "node_modules/aleut.objects.layout/_objects.layout.scss";
 //@import "node_modules/aleut.objects.list-bare/_objects.list-bare";
 //@import "node_modules/aleut.objects.list-block/_objects.list-block";
