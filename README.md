@@ -3,7 +3,7 @@
 Starter project for Aleut.css
 
 ## To start
-* Download these files as a zip
+* Download the repository as a zip
 * `cd` to this repositiory
 * Run `npm install` to download all the packages.
 * Use the compiler of your choice.
