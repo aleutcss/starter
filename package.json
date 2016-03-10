@@ -4,7 +4,8 @@
   "description": "A Aleut.css starter project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "gulp"
   },
   "repository": {
     "type": "git",
@@ -58,6 +59,8 @@
     "aleut.utilities.responsive-spacing": "^1.0.1",
     "aleut.utilities.responsive-widths": "^1.0.1",
     "aleut.utilities.spacing": "^1.0.1",
-    "aleut.utilities.widths": "^1.0.1"
+    "aleut.utilities.widths": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0"
   }
 }
