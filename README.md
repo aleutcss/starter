@@ -7,4 +7,7 @@ $ npm i
 $ npm start
 ~~~
 
+If you want to make one-off build without watching and recompiling, 
+there's `npm run build` script which compiles `style.sass` to `./css` directory.
+
 [Read the full documentation](http://aleutcss.github.io/)

@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "gulp"
+    "build": "node-sass style.scss ./css/style.css",
+    "prestart": "npm run build",
+    "start": "node-sass style.scss ./css/style.css --watch"
   },
   "repository": {
     "type": "git",
@@ -17,7 +19,7 @@
     "sass",
     "bem",
     "itcss",
-    "inuitt"
+    "inuit"
   ],
   "author": "Marius Hauken, Knut Melvær, Robin Sandborg",
   "license": "ISC",
@@ -60,7 +62,7 @@
     "aleut.utilities.responsive-widths": "^1.0.1",
     "aleut.utilities.spacing": "^1.0.1",
     "aleut.utilities.widths": "^1.0.1",
-    "gulp": "^3.9.1",
-    "gulp-sass": "^2.2.0"
+    "node-sass": "^3.4.2",
+    "watch": "^0.17.1"
   }
 }
