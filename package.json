@@ -62,7 +62,6 @@
     "aleut.utilities.responsive-widths": "^1.0.1",
     "aleut.utilities.spacing": "^1.0.1",
     "aleut.utilities.widths": "^1.0.1",
-    "node-sass": "^3.4.2",
-    "watch": "^0.17.1"
+    "node-sass": "^3.4.2"
   }
 }
