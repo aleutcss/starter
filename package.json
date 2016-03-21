@@ -58,8 +58,8 @@
     "aleut.utilities.clearfix": "^1.0.1",
     "aleut.utilities.headings": "^1.0.1",
     "aleut.utilities.print": "^1.0.1",
-    "aleut.utilities.responsive-spacing": "^1.0.1",
-    "aleut.utilities.responsive-widths": "^1.0.1",
+    "aleut.utilities.spacing-responsive": "^1.0.1",
+    "aleut.utilities.widths-responsive": "^1.0.1",
     "aleut.utilities.spacing": "^1.0.1",
     "aleut.utilities.widths": "^1.0.1",
     "node-sass": "^3.4.2"
