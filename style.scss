@@ -136,8 +136,8 @@ $o-layout--auto:     false !default;
 @import "node_modules/aleut.utilities.print/_utilities.print.scss";
 $u-p: true;
 @import "node_modules/aleut.utilities.spacing/_utilities.spacing.scss";
-@import "node_modules/aleut.utilities.responsive-spacing/_utilities.spacing-responsive.scss";
+@import "node_modules/aleut.utilities.spacing-responsive/_utilities.spacing-responsive.scss";
 @import "node_modules/aleut.utilities.widths/_utilities.widths.scss";
-@import "node_modules/aleut.utilities.responsive-spacing/_utilities.spacing-responsive.scss";
+@import "node_modules/aleut.utilities.widths-responsive/_utilities.widths-responsive.scss";
 @import "scss/_utilities.helpers.scss";
 //++ shame.scss (http://csswizardry.com/2013/04/shame-css/)
